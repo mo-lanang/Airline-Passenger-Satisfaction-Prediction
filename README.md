@@ -2,7 +2,7 @@
 
 ⦁	Introduction:
 
-The dataset used was about an airline passenger satisfaction survey. There are two stakeholders that are going to use the analytical output from this dataset. The first stakeholder is the Head of Analytics Team who wants to know the best model that can be presented to the business team to perform prediction regularly. The second stakeholder is the representative from the business team who is going to take the best model and any insight/finding to his/her regular business meeting.
+The dataset used was about an airline passenger satisfaction survey gathered from [Kaggle](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction). There are two stakeholders that are going to use the analytical output from this dataset. The first stakeholder is the Head of Analytics Team who wants to know the best model that can be presented to the business team to perform prediction regularly. The second stakeholder is the representative from the business team who is going to take the best model and any insight/finding to his/her regular business meeting.
 
 ⦁	Task:
 - What is the best possible machine learning algorithm that can be presented to the representative of the business team?
